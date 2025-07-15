@@ -68,7 +68,7 @@ Trained and evaluated the following models:
 
 ---
 
-## 📈 Results
+##  Results
 
 | Model               | Accuracy (Test Set) |
 |---------------------|---------------------|
@@ -79,7 +79,7 @@ Trained and evaluated the following models:
 
 ---
 
-## 💡 Key Insights
+##  Key Insights
 
 - All models achieved high accuracy, with **SVM performing best** on the test set.
 - **Feature scaling** using `StandardScaler` significantly improved performance.
