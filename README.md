@@ -100,7 +100,7 @@ Trained and evaluated the following models:
 
 ##  Author
 
-**Your Name**  
+  
 📧 aajayan525@gmail.com 
 🔗 [GitHub](https://github.com/Anusha6744)
 
