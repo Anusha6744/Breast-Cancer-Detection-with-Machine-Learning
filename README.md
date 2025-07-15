@@ -1,4 +1,4 @@
-**Breast Cancer Detection Using Machine Learning**
+## Breast Cancer Detection Using Machine Learning
 
 This project predicts whether a breast tumor is **malignant** or **benign** using diagnostic data. It applies supervised machine learning algorithms such as **Logistic Regression**, **Random Forest**, **Decision Tree** and **Support Vector Machine (SVM)** with performance evaluation using metrics like accuracy, confusion matrix, and classification report.
 
